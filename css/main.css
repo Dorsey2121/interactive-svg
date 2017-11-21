@@ -8,7 +8,6 @@
   transform: translateY(-10px);
 }
 
-
 #left-eye,
 #right-eye {
   animation: eyeMove 3s linear infinite alternate;
